@@ -7,5 +7,5 @@
 - ⚡
 -# Merhaba Ben [İsmin]! 👋  
 Python öğreniyorum ve burada küçük projelerimi paylaşıyorum.  
-🔥 Şu anda öğrendiklerim:  
+🔥 
    
